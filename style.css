@@ -1,0 +1,22 @@
+.playwrite-ca-typical {
+  font-family: "Playwrite CA", cursive;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+}
+
+body {
+    text-align:center;
+    font-family:"Playwrite CA";
+    background-color: #745840;
+    color: #E3D8C6
+}
+
+img {width:500px;height:500px;
+      -webkit-mask-image: url(mskimg.png);
+  mask-image: url(mskimg.png);
+  mask-repeat: no-repeat;    
+}
+#textone {
+    font-size:12px;
+}
